@@ -56,7 +56,6 @@ I love building systems that are **clean**, **automated**, and **user-focused**.
 - 📫 [josebenaya@gmail.com](mailto:josebenaya@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/josealfredbenaya/)  
 - 💻 [GitHub](https://github.com/JoseBenaya)  
-- 📱 [WhatsApp](https://api.whatsapp.com/send?phone=6285172207053)
 
 ---
 
